@@ -19,7 +19,7 @@
     max-width: 335px;
     width: 100%;
     height: 500px;
-    background-image:url("../chocolate/images/play.svg"), url("../chocolate/images/poster.jpg") ;
+    background-image:url("../images/play.svg"), url("../images/poster.jpg") ;
     background-repeat: no-repeat;
     background-position: center;
     justify-content: center;
